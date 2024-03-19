@@ -6,5 +6,5 @@ I have implemented a simple electric piano , capable of playing music. Self-cust
 
 Results Display:
 
-![](./doc/result.jpg=50% )
+![](./doc/result.jpg=80%x)
 
