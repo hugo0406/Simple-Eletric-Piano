@@ -8,5 +8,5 @@ Results Display:
 </br>
 
 <div align=center>
-<img src="./doc/result.jpg" width="25%" height="25%" />
+<img src="./doc/result.jpg" width="40%" height="40%" />
 </div>
