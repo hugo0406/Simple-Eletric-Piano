@@ -11,14 +11,14 @@ MCU(MPC82G516A), IC Programmer, Mini Speaker, 7-segment display, 4x4 Keypad, Bre
 </br>
 
 <div align=center>
-<img src="./doc/keypad.png" width="20%" height="20%" />
+<img src="./doc/keypad.png" width="40%" height="40%" />
 </div>
 
 pitch:
 </br>
 
 <div align=center>
-<img src="./doc/pitch.png" width="20%" height="20%" />
+<img src="./doc/pitch.png" width="40%" height="40%" />
 </div>
 
 Results Display:
@@ -27,4 +27,6 @@ Results Display:
 <div align=center>
 <img src="./doc/result.jpg" width="40%" height="40%" />
 </div>
+
+
 
