@@ -6,6 +6,11 @@ I have implemented a simple electric piano , capable of playing music. Self-cust
 
 Main Components:
 MCU(MPC82G516A), IC Programmer, Mini Speaker, 7-segment display, 4x4 Keypad, Breadboard
+</br>
+
+<div align=center>
+<img src="./doc/result.jpg" width="40%" height="40%" />
+</div>
 
 4x4 Keypad pinout:
 </br>
@@ -14,19 +19,14 @@ MCU(MPC82G516A), IC Programmer, Mini Speaker, 7-segment display, 4x4 Keypad, Bre
 <img src="./doc/keypad.png" width="40%" height="40%" />
 </div>
 
-pitch:
+Pitch:
 </br>
 
 <div align=center>
 <img src="./doc/pitch.png" width="40%" height="40%" />
 </div>
 
-Results Display:
-</br>
 
-<div align=center>
-<img src="./doc/result.jpg" width="40%" height="40%" />
-</div>
 
 
 
