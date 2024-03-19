@@ -8,10 +8,14 @@ Main Components:
 MCU(MPC82G516A), IC Programmer, Mini Speaker, 7-segment display, 4x4 Keypad, Breadboard
 
 4x4 Keypad pinout:
-<img src="./doc/keypad.png"/>
+<div align=center>
+<img src="./doc/keypad.png" width="40%" height="40%" />
+</div>
 
 pitch:
-<img src="./doc/pitch.png"/>
+<div align=center>
+<img src="./doc/pitch.png" width="40%" height="40%" />
+</div>
 
 Results Display:
 </br>
