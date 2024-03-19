@@ -6,5 +6,5 @@ I have implemented a simple electric piano , capable of playing music. Self-cust
 
 Results Display:
 
-<img src="./doc/result.jpg" width="50%" height="50%"/>
+<img src="./doc/result.jpg" width="75%" height="75%"/>
 
